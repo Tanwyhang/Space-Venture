@@ -2,6 +2,8 @@
 A game made from scratch using python, made in August of 2021
 
     SpaceVenture
+    
+    all resources :: https://drive.google.com/drive/folders/1wvp9BitsqEU4QT_WevuC5GhAMI1nxznN?usp=sharing
 
 
     ===Credits===
